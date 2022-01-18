@@ -3,7 +3,7 @@
 Welcome to my profile!
 I'm beginner developer👶. I have about two years of experience.
 
-Skills: PHP / Laravel / Yii
+Skills: PHP / GO
 
 - 🔭 I’m currently working on [Heads and Hands](https://handh.ru) 
 - 🌱 I’m currently learning application architecture, design pattern 
