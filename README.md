@@ -1,11 +1,10 @@
 ### Hi there 👋,  I'm Sergey
 #### Backend developer from Russia
 Welcome to my profile!
-I'm beginner developer👶. I have about two years of experience.
 
 Skills: PHP / GO
 
-- 🔭 I’m currently working on [Heads and Hands](https://handh.ru) 
+- 🔭 I’m currently working on [Xsolla](https://xsolla.com) 
 - 🌱 I’m currently learning application architecture, design pattern 
 - 📫 How to reach me: telegram [@zubatik](tg://resolve?domain=zubatik) 
 
