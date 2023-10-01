@@ -1,5 +1,5 @@
 ### Hi there 👋,  I'm Sergey
-#### Backend developer from Russia
+#### Backend developer from Malaysia.
 Welcome to my profile!
 
 Skills: PHP / GO
