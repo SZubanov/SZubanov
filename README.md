@@ -12,7 +12,7 @@ Welcome to my profile!
 </p>
                     
 ### Social
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Zubatik) [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sergey-zubanov-068b2a134)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/serjzubanov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/zubatos)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Zubatik) [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sergey-zubanov-068b2a134)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/serjzubanov) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SZubanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
